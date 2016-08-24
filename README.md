@@ -1,2 +1,2 @@
-# my-gitbook-test
-empty gg
+# Gitbook test
+This is a test repository for Gitbook.
